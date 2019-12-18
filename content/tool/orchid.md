@@ -5,8 +5,8 @@ tools:
 - Static Site Generator
 license: Open Source
 urls:
-  github: https://github.com/JavaEden/Orchid
-  website: https://orchid.netlify.com/OrchidCore
+  github: https://github.com/orchidhq/Orchid
+  website: https://orchid.run/
   twitter: https://twitter.com/OrchidSSG
   other: ''
 related_tools:
@@ -21,6 +21,7 @@ interactions: []
 data_model: ''
 
 ---
-Orchid is a static site generator capable of generating sites with hundreds or thousands of pages in seconds without even breaking a sweat. In addition, Orchid has many novel ways to configure large groups of pages from one central location, so you are never locked into a single theme or configuration, no matter how large your site is. With performance that rivals the best tools on the market and flexibility that simply cannot be matched by anything else out there, Orchid will not only replace your current static site generator, but do it better and faster, while being an absolute joy to work with.
 
-With one click, you can get Orchid deployed to Netlify, complete with the Netlify CMS already configured. Plus, the NetlifyCMS automatically adapts to your Orchid plugins and configurations, all you have to do is write.
+> Build and deploy beautiful documentation sites that grow with you
+
+Orchid is a framework for generating project documentation websites with all the bells-and-thistles. Orchid lets you publish all your wikis, changelogs, blogs, code comments and more. We'll even deploy it for you too, so you can stop fussing over tooling and focus on your project.
